@@ -1,2 +1,0 @@
-# foundation-model-histology
- This study benchmarks multiple classifier architectures—attention pooling, K-Nearest Neighbors (KNN), and a linear Multi-Layer Perceptron (MLP)—on consistent histology patch embeddings from eight foundation models (e.g., Virchow2) based on the NCTCRCHE100K dataset. We evaluate performance using accuracy, F1-score, precision, recall, confusion matrices, and ROC curves, and analyze trade-offs between accuracy, complexity, and computational cost. 
